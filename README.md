@@ -56,8 +56,8 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="50" height="50" />
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaqasim&show_icons=true&locale=en&layout=compact" alt="hamzaqasim" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HamzaQasim7&show_icons=true&locale=en&layout=compact" alt="hamzaqasim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaqasim&show_icons=true&locale=en" alt="hamzaqasim" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HamzaQasim7&show_icons=true&locale=en" alt="hamzaqasim" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaqasim&" alt="hamzaqasim" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaQasim7&" alt="hamzaqasim" /></p>
