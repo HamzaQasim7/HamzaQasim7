@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Hamza Qasim 👋</h1>
-<h3 align="center">A passionate Flutter developer</h3>
+<h3 align="center">An indie Flutter developer and founder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaqasim&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaqasim" /> </p>
 
-- 🔭 I'm currently working on **Flutter projects**
+- 🔭 I'm currently working on **Reple AI**
 
-- 🌱 I'm currently learning **Dart, Flutter, and Software Engineering practices**
+- 🌱 I'm currently learning **AI agents and web extensions**
 
 - 💬 Ask me about **Flutter, Dart, and Mobile Development**
 
