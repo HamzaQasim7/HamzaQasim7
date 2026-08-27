@@ -5,7 +5,7 @@
 # Hamza Qasim
 **Senior Flutter Developer · Full-Stack Engineer · AI Builder**
 
-*Building production-grade mobile apps and AI-powered tools — from architecture to App Store.*
+*Building production-grade mobile apps and AI-powered tools from architecture to App Store.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzaqasim-flutterdeveloper/)
 [![Twitter / X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/hamza_qasim7)
@@ -18,9 +18,9 @@
 
 ## What I Do
 
-I design and ship scalable Flutter applications with a strong emphasis on **Clean Architecture**, **privacy-first principles**, and **Apple-level UI polish**. I've taken products from idea to production — handling architecture, backend integration, and deployment end-to-end.
+I design and ship scalable Flutter applications with a strong emphasis on **Clean Architecture**, **privacy-first principles**, and **Apple-level UI polish**. I've taken products from idea to production, handling architecture, backend integration, and deployment end-to-end.
 
-Currently building **Reple AI** — a context-aware AI reply engine for freelancers and agency owners, operating on a BYOK (Bring Your Own Key) model with zero data collection.
+Currently building **Reple AI**, a context-aware AI communication coach for freelancers and agency owners, operating on a BYOK (Bring Your Own Key) model with zero data collection.
 
 ---
 
@@ -28,8 +28,8 @@ Currently building **Reple AI** — a context-aware AI reply engine for freelanc
 
 | Area | Details |
 |---|---|
-| 🚀 Building | **Reple AI** — AI-powered reply assistant for WhatsApp, LinkedIn & Slack |
-| 📱 Client Work | **ValisIQ** — Airline baggage claims & tracking app (Flutter + Fastify + PostgreSQL) |
+| 🚀 Building | **Reple AI** AI-powered reply assistant for WhatsApp, LinkedIn & Slack |
+| 📱 Client Work | **ValisIQ** Airline baggage claims & tracking app (Flutter + Fastify + PostgreSQL) |
 | 🧠 Learning | AI agents, browser extensions, LLM tooling |
 | 🤝 Open to | Freelance Flutter projects, technical consulting, startup collaboration |
 
